@@ -12,3 +12,33 @@ nav a {
   margin-right: 20px;
   font-family: sans-serif;
 }
+nav {
+  display: flex;
+  justify-content: flex-end;
+}
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.hero button {
+  background-color: #2c2c2c;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.categories {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 40px 20px;
+}
+
+.category-card {
+  background-color: #eee;
+  padding: 40px;
+  font-family: sans-serif;
+  text-align: center;
+}
