@@ -1,1 +1,2 @@
 - A fashion e-commerce website for a clothing designer, built from scratch as a hands-on MERN stack learning project.
+- static homepage with semantic HTML, CSS (flexbox layout, Google Fonts, hover effects) and first JavaScript interactions.
